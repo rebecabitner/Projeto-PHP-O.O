@@ -1,0 +1,1 @@
+Projeto para desenvolver boas práticas com PHP Orientado Objetos
